@@ -9,7 +9,7 @@ let vys = [];
 let sizes = [];
 
 function preload() {
-  gifs[0] = loadImage("bike_anim_(2).gif");
+  gifs[0] = loadImage("bike_anim_2.gif");
   gifs[1] = loadImage("bort_anim.gif");
   gifs[2] = loadImage("gold_anim.gif");
   gifs[3] = loadImage("phone_anim.gif");
